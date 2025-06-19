@@ -31,7 +31,8 @@ body{
   padding: 30px;
   position: relative;
   background-color: black;
-  margin: 50px auto;
+  margin:  auto;
+  margin-top: 40px;
   transition: all 0.4s ease;
   border-radius: 15px;
   color: ghostwhite;
@@ -50,7 +51,7 @@ body{
   width: calc(100% + 7px);
   height: calc(100% + 7px); 
   position: absolute;
-  background: linear-gradient(45deg, #22a9e3 ,#0000f0, #6393f2 , #0000f0 );
+  background: linear-gradient(45deg, #22a9e3 ,#0000f0, #0000f0 );
   background-size: 400%;
   top: -2.5px;
   left: -2.5px;
