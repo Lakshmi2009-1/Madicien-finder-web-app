@@ -275,7 +275,9 @@ button{
       position: relative;
       overflow: hidden;
       transition: transform 0.3s, box-shadow 0.3s;
-      margin: 15px auto;
+      margin: auto;
+      margin-top: 20px;
+      margin-bottom: 25px;
     }
 
    
