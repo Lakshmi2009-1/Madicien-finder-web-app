@@ -539,7 +539,6 @@ function showOriginal(search) {
      noFound.innerHTML = "";
       altBtn.style.display = "block";
     orgBtn.style.display = "block";
-    altLab.style.display = "block";
       
   for (let i = 0; i < filtArr.length; i++) {
   
@@ -607,7 +606,7 @@ function showAlter(alterArray, search){
     return;
   } 
     else{
-      
+    altLab.style.display = "block";  
    noFound.innerHTML = '';  
    original.innerHTML = "";
       
