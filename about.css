@@ -257,7 +257,7 @@ body{
   }
 }
 
-a{
+button > a, a{
   color: #3dfcfc;
   font-size: 20px;
   font-weight: 500;
